@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi there 👋 Nice to meet you, I'm Utkarsh!
+Hi there 
+
+👋 Nice to meet you, I'm Utkarsh!
+
 🔭 I’m building end-to-end projects in Data Science, Machine Learning, and analytics<br>📊 Skilled in Python, SQL, Machine Learning, and Power BI<br>🌱 I’m currently learning advanced ML, time series, and real-world deployment<br>💬 Ask me about Data Science, Machine Learning, Power BI, and SQL<br>⚡ Fun fact: If I’m not analyzing data, I’m probably watching or playing cricket
 
 
