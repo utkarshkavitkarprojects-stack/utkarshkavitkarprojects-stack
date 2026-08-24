@@ -56,9 +56,6 @@
 - **Google Play Store Power BI Dashboard**
   Interactive dashboard analyzing 9,621 apps with 18 DAX measures and cleaned/deduplicated data.
 
-- **Executive Sales Dashboard (Tableau)**
-  Multi-worksheet dashboard on ~150K transactional rows with LOD expressions, YoY growth calculations, dynamic parameters, and 6-month forecasting — surfaced a "Discount Trap" insight costing 14% net margin in one region.
-
 📂 Check out all my repositories below for code, notebooks, and detailed READMEs.
 
 ---
