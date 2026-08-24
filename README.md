@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Utkarsh Kavitkar 👋</h1>
-<h3 align="center">Mechanical Engineer turned Data Scientist | Building end-to-end ML & Analytics projects</h3>
+<h3 align="center">Data Scientist | Building end-to-end ML & Analytics projects</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=utkarshkavitkarprojects-stack&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
